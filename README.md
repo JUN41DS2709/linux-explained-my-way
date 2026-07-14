@@ -1,5 +1,5 @@
 # 🐧 Linux Explained My Way
-
+![linux hero image](images/linux.png)
 A personal collection of Linux notes, commands, concepts, troubleshooting steps, and practical examples documented during my learning journey.
 
 This repository is not intended to be an official Linux guide or reference manual. Instead, it contains explanations written in my own words to help reinforce understanding and build long-term knowledge retention.
